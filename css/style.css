@@ -129,6 +129,10 @@ section {
 
 }
 
+#name{
+	color: blue!important;
+}
+
 /* ===== Begin text colors ===== */
 .text-main { color: #363940; } /* Theme main color */
 .text-white { color: #FFF; }
@@ -244,6 +248,7 @@ section {
 .navbar-fixed-top.navbar-shrink .container {
 	padding-top: 0 !important;
 	padding-bottom: 0 !important;
+	margin-right: 30%;
 }
 .navbar-default.navbar-fixed-top.navbar-shrink .navbar-nav > li > a {
 	padding-top: 24px;
@@ -263,7 +268,7 @@ section {
 	padding-bottom: 30px;
 }
 .navbar-transparent .navbar-nav > li > a {
-	color: #FFF;
+	color: #70f2ff;
 }
 .navbar-transparent .navbar-brand, .navbar-transparent .navbar-brand:focus {
 	color: #FFF;
@@ -807,6 +812,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 ul.social-list {
 	text-align: center;
 	margin: 0 auto;
+	margin-left: 4%;
 }
 ul.social-list li{
 	display: inline-block;
