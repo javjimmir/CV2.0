@@ -863,7 +863,7 @@ ul.social-list li a i {
 }
 #contact-section .contact .form-control {
 	background-color: rgba(255, 255, 255, 0.06);
-	border-color: #2A2A2A;
+	border-color: darkorange;
 }
 #contact-section .contact .form-control:focus {
 	background-color: #171717;

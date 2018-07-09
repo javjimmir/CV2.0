@@ -183,7 +183,7 @@ a, a:hover, a:focus {
 	background-color: #363940;
 }
 #contact-section .contact .contact-form button {
-	background-color: #363940;
+	background-color: darkorange;
 }
 #contact-section .contact .contact-form button:hover {
 	background-color: #676D75;
@@ -197,6 +197,10 @@ a, a:hover, a:focus {
 }
 .footer {
 	background-color: #2d3035;
+}
+
+.footer p{
+	color: darkorange;
 }
 #subscribe > button[type="submit"] {
     background: none repeat scroll 0 0 #676D75;
@@ -240,8 +244,8 @@ a, a:hover, a:focus {
 
 /* === To Top === */
 .scrolltotop {
-	color: #676D75;
-	border: 2px solid #676D75;
+	color: darkorange;
+	border: 2px solid darkorange;
 }
 
 
