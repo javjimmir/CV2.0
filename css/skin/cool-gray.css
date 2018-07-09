@@ -14,7 +14,7 @@ a, a:hover, a:focus {
   background-color: #363940;
 }
 .navbar-default .navbar-nav > li > a {
-	color: #a9a9a9;
+	color: darkorange;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li.active > a, .navbar-default .navbar-nav>.active>a {
 	color: #fff !important;
@@ -121,7 +121,7 @@ a, a:hover, a:focus {
 
 /* === Rotate Box === */
 .rotate-box-1.square-icon .rotate-box-icon, .rotate-box-2.square-icon .rotate-box-icon {
-	background-color: #363940;
+	background-color: darkorange;
 }
 
 
@@ -132,7 +132,7 @@ a, a:hover, a:focus {
 	background-color: transparent;
 }
 .progress-bar {
-	background-color: #676D75;
+	background-color: darkorange;
 }
 
 

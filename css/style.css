@@ -57,15 +57,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
 	font-size: 36px;
+	color: darkorange;
 }
 h2 {
 	font-size: 30px;
+	color: darkolivegreen;
 }
 h3 {
 	font-size: 26px;
 }
 h4 {
 	font-size: 22px;
+	color: darkolivegreen;
 }
 h5 {
 	font-size: 18px;
@@ -437,7 +440,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 }
 .progress .percent {
 	position: relative;
-	background-color: #222;
+	background-color: darkorange;!important;
 	padding: 7px;
 	color: #FFF;
 	top: -23px;
@@ -460,8 +463,10 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	text-align: right;
 	-webkit-box-shadow: none;
 	box-shadow: none;
+
 }
 .progress-lebel h6{
+	color: darkolivegreen;
 	margin-bottom: 10px;
 	letter-spacing: 2px;
 }
@@ -530,7 +535,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
     display: inline-block;
 }
 .portfolio_menu ul li a{
-	color: #363940;
+	color: darkolivegreen;
 	background: transparent;
     display: inline-block;
     margin: 4px;
