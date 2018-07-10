@@ -1,7 +1,8 @@
 @font-face {
 	font-family: myFont2;
-	src: url(./ups.ttf);
+	src: url(../ups.ttf);
 }
+
 
 a, a:hover, a:focus {
 	color: darkorange;
