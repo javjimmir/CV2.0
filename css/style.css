@@ -9,6 +9,15 @@ Master Stylesheet
 	Version:	1.0	
 
 ---------------------------------------------------------------------------------*/
+@font-face {
+	font-family: myFont;
+	src: url(./candle.ttf);
+}
+
+@font-face {
+	font-family: myFont2;
+	src: url(./ups.ttf);
+}
 
 html {
 	height: 100% !important;
@@ -58,6 +67,8 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
 	font-size: 36px;
 	color: darkorange;
+	font-family: myFont;
+	letter-spacing: 10px;
 }
 h2 {
 	font-size: 30px;
@@ -69,6 +80,8 @@ h3 {
 h4 {
 	font-size: 22px;
 	color: darkorange;
+	font-family: myFont2;
+	letter-spacing: 10px;
 }
 h5 {
 	font-size: 18px;
