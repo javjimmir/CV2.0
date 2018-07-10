@@ -10,11 +10,6 @@ Master Stylesheet
 
 ---------------------------------------------------------------------------------*/
 @font-face {
-	font-family: myFont;
-	src: url(./candle.ttf);
-}
-
-@font-face {
 	font-family: myFont2;
 	src: url(./ups.ttf);
 }
@@ -561,6 +556,9 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
     padding: 8px 10px;
     text-decoration: none;
     text-transform: uppercase;
+	font-family: myFont2;
+	font-size: 1.7em;
+	letter-spacing: 3px;
 }
 .portfolio_content{}
 .portfolio_single_content{
@@ -594,6 +592,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	-o-transition:all 1s;
 	-ms-transition:all 1s;
 	transition:all 1s;
+	border-radius: 25px !important;
 }
 .portfolio_single_content .canv{
 	width:100% !important;
@@ -988,8 +987,11 @@ ul.imp-links li a {
 	text-transform: uppercase;
 }
 p.subtitle {
+	font-size: 1.5em;
 	letter-spacing: 2px;
 	margin-top: 10px;
+	color: darkorange;
+	font-family: myFont2;
 }
 /* ===== End page header ===== */
 
