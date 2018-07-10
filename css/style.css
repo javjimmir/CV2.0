@@ -1005,7 +1005,7 @@ p.subtitle {
 	background: rgba(0, 0, 0, 0);
 	width: 14px;
 	height: 14px;
-	border: 3px solid #fff;
+	border: 3px solid darkorange;
 	-webkit-transform: rotate(45deg);
 	-moz-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
@@ -1013,7 +1013,7 @@ p.subtitle {
 }
 .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {
 	background: rgba(0, 0, 0, 0);
-	border: 3px solid #fff;
+	border: 3px solid white;
 }
 .owl-buttons {
 	position: absolute;
