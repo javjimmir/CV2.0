@@ -898,6 +898,7 @@ ul.contact-address {
 ul.contact-address li {
 	padding: 0 0 20px;
 	margin: 0;
+	color: darkorange;
 }
 ul.contact-address li:last-child {
 	padding-bottom: 0;
